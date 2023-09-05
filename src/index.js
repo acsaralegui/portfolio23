@@ -1,7 +1,7 @@
 import initTilt from './js/tilt';
 import initSr from './js/sr';
-
 import './style/main.scss';
+import html from "./template.html";
 
 
 

@@ -21,8 +21,9 @@ module.exports = {
               esModule: false
             }
           }
-        ]
-      }
+        ],
+        type: 'javascript/auto'
+      },
     ]
   },
   // This config allows to use jQuery $ sign
@@ -32,4 +33,4 @@ module.exports = {
       jQuery: "jquery"
     })
   ]
-};
+}; 
